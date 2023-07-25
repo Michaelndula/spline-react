@@ -4,7 +4,7 @@
 
 **react-spline** allows you to export and use Spline scenes directly in your React websites.
 
-🌈 [Spline](https://spline.design/) is a friendly 3d collaborative design tool for the web.
+[Spline](https://spline.design/) is a friendly 3d collaborative design tool for the web.
 
 [Website](https://spline.design/) &mdash;
 [Twitter](https://twitter.com/splinetool) &mdash;
